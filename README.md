@@ -31,7 +31,7 @@ docker-compose up -d
 
 ## Additional information
 
-More information can be found in the sources below:
+More information can be found in the websites below:
 
 - <https://github.com/markbenschop/flask-demo/blob/master/Dockerfile>
 - <https://www.clickittech.com/devops/dockerize-flask-python-application/>
