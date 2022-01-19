@@ -1,0 +1,16 @@
+version: '2'
+
+volumes:
+  flask-hello-world: # Optional
+    driver: local
+    name: flask-hello-world
+
+services:
+  flask-hello-world:
+    build: flask
+    container_name: flask-hello-world
+    restart: always
+    volumes:
+      - flask-hello-world:/usr/src/app
+    ports:
+      - 5000:5000
