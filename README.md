@@ -1,6 +1,5 @@
 # flask-docker-hello-world
 
-## What it is?
 A really simple 'Hello, World!' in Flask using Docker (with docker-compose file). I just made it to learn more how to use Docker =]
 
 ## How to run?
