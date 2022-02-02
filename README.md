@@ -4,6 +4,8 @@ A really simple 'Hello, World!' in Flask using Docker (with docker-compose file)
 
 ## How to run?
 
+> The Dockerfile for the Flask application is located in the *flask* directory. Alternatively, use the *docker-compose.yml* file with **`docker-compose`**.
+
 To pull the **`python3`** image and build the custom one, run:
 
 ```shell
